@@ -1,0 +1,9 @@
+.cabecalho{ 
+    background-color: aqua;
+    color: black;
+    display: flex;
+    justify-content:center;
+}
+.imgem-logo{
+    width: 80px;
+}
